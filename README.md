@@ -1,6 +1,6 @@
-# KuSled
-3d printable airsled
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+# KuSled 
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc] 3d printable airsled 
+
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
