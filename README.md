@@ -1,6 +1,6 @@
 # KuSled 
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-![alt text](https://github.com/YuRa-Aero/KuSled/blob/main/1.png?raw=true)
+
 ![alt text](https://github.com/YuRa-Aero/KuSled/blob/main/2.png?raw=true)
 
 Это 3д печатные аэросани с ФПВ, которые может сделать каждый!
@@ -12,6 +12,8 @@
 * Регулятор 5А и более
 * Любой литиевый аккумулятор
 * R/C приемник
+
+![alt text](https://github.com/YuRa-Aero/KuSled/blob/main/1.png?raw=true)
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
