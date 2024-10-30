@@ -1,5 +1,7 @@
 # KuSled 
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+![alt text](https://github.com/YuRa-Aero/KuSled/blob/main/1.jpg?raw=true)
+![alt text](https://github.com/YuRa-Aero/KuSled/blob/main/2.jpg?raw=true)
 
 Это 3д печатные аэросани с ФПВ, которые может сделать каждый!
 Для этого потребуется распечатать модели, найти нужную электронику и собрать по инструкциям из моего канала: t.me/yura_aero
